@@ -1,1 +1,1 @@
-https://cdn.jsdelivr.net/gh/pranavsense/FA6@latest/css/all.min.css
+https://cdn.jsdelivr.net/gh/pranavsense/FA6@6.4/css/all.min.css
